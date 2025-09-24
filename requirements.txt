@@ -1,0 +1,8 @@
+opencv-python
+numpy
+tensorflow
+keras
+langchain
+openai
+python-dotenv
+tkinter
